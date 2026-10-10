@@ -1,6 +1,6 @@
 # Computer Vision — Section 2 Tasks (OpenCV)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amr-elgharip2006/cv-section2-opencv-tasks/blob/main/CV_Section2_Tasks_Amr.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amr-elgharip2006/cv-section2-opencv-tasks/blob/main/CV_Section2_Solutions.ipynb)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 
@@ -9,6 +9,8 @@
 **Student:** Amr Ahmed Elgharip
 
 > حل الـ 8 تاسكات بتوع Section 2 كاملة، والنتايج متسجلة جوه النوت بوك.
+
+> ⚡ **Solutions only:** [`CV_Section2_Solutions.ipynb`](CV_Section2_Solutions.ipynb) — the Colab badge opens this one. The full section notebook with the solutions at the end is kept too.
 
 The solutions are in [`CV_Section2_Tasks_Amr.ipynb`](CV_Section2_Tasks_Amr.ipynb), under **"Solutions — Amr"** after the *Practice Tasks* cell.
 They use the notebook's synthetic teaching image `img`, so they run in Colab without uploading anything.
